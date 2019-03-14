@@ -1,0 +1,33 @@
+{
+  "name": "tabledb",
+  "version": "0.1.0",
+  "description": "Better useage of Aliyun TableStore",
+  "author": "Travis<tw@travis.wang>",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000"
+  },
+  "dependencies": {
+    "tablestore": "^4.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trawor/tabledb.git"
+  },
+  "keywords": [
+    "table",
+    "db",
+    "tabledb",
+    "tablestore",
+    "aliyun"
+  ],
+
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trawor/tabledb/issues"
+  },
+  "homepage": "https://github.com/trawor/tabledb#readme"
+}
